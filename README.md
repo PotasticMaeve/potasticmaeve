@@ -17,7 +17,8 @@ class DefineMe:
         self.nationality = "Indonesia"
 
     def say_hi(self):
-        print(f"Hello i'm {self.name} from {self.nationality}! Thanks for dropping by, hope you find some of my work interesting 👀")
+        print(f"Hello i'm {self.name} from {self.nationality}!")
+        print("Thanks for dropping by, hope you find some of my work interesting 👀")
 
 DefineMe().say_hi()
 ```
