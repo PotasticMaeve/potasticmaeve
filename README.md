@@ -3,7 +3,7 @@
 
 - 🔭 I'm a web developer and tech enthusiast 💡
 - 🌱 I’m currently learning everything, especially programming 💻
-- 🤝 I’m looking to collaborate with other developer
+- 🤝 I’m looking to collaborate with other developer 👥
 - 🤔 2022 Goals: Learn to code more efficient 🚀
 - ☕ Work best with coffee on the desk ☕
 - ⚡ Fun fact: i love making things earsier to maintain 👊
@@ -11,16 +11,15 @@
 <br>
 
 ```py
-class defineMe:
+class DefineMe:
     def __init__(self):
         self.name = "Claudia Felicia"
         self.nationality = "Indonesia"
 
     def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting 👀")
+        print(f"Hello i'm {self.name} from {self.nationality}! Thanks for dropping by, hope you find some of my work interesting 👀")
 
-me = defineMe()
-me.say_hi()
+DefineMe().say_hi()
 ```
 
 ### Languages and Tools :
