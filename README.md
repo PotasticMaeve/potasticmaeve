@@ -1,12 +1,10 @@
-### Hi there! I'm Claudia <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### Hi there! I'm Felicia <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ---
 
-- 🔭 I'm a web developer and tech enthusiast 💡
+- 🔭 I'm a software engineer and tech enthusiast 💡
 - 🌱 I’m currently learning everything, especially programming 💻
 - 🤝 I’m looking to collaborate with other developer 👥
-- 🤔 2022 Goals: Learn to code more efficient 🚀
-- ☕ Work best with coffee on the desk ☕
-- ⚡ Fun fact: i love making things earsier to maintain 👊
+- 🤔 2023 Goals: Expand my portfolio 🚀
 
 <br>
 
@@ -29,6 +27,7 @@ DefineMe().say_hi()
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
