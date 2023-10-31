@@ -1,4 +1,4 @@
-### Hi there! I'm Felicia <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
+### Hi there! I'm Felicia <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXU4M2dnMGQxNTJreHVveDkyZjhvdWFlaWU5eGF0cGV6amFkemkybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> 
 ---
 
 - 🔭 I'm a software engineer and tech enthusiast 💡
