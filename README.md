@@ -4,7 +4,7 @@
 - 🔭 I'm a software engineer and tech enthusiast 💡
 - 🌱 I’m currently learning everything, especially programming 💻
 - 🤝 I’m looking to collaborate with other developer 👥
-- 🤔 2023 Goals: Expand my portfolio 🚀
+- 🤔 2024 Goals: Expand my portfolio 🚀
 
 <br>
 
